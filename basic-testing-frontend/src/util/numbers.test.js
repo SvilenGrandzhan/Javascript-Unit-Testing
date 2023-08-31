@@ -25,3 +25,4 @@ describe('clearNumbers()', () => {
     expect(result).toThrow();
   });
 });
+console.log();
