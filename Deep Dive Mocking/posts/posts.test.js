@@ -19,7 +19,3 @@ describe('extractPostData()', () => {
     expect(data.content).toBe(testContent);
   });
 });
-
-describe('savePost()', () => {
-  it('description', () => {});
-});
